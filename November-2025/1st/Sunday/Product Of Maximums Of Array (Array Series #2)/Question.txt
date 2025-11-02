@@ -2,4 +2,4 @@ codewars: https://www.codewars.com/kata/5a63948acadebff56f000018
 Topic: Product Of Maximums Of Array (Array Series #2)
 
 Task
-Given an array/list [] of integers , Find the product of the k maximal numbers.
+Given an array/list [] of integers , Find the product of the k maximal numbers. 
