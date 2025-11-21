@@ -6,14 +6,22 @@ A collection of Python solutions for problems solved in the DevCareer Data Scien
 
 Browse through our solutions organized by month:
 
-<details markdown=1><summary markdown='span'>2023</summary>
-      Coming soon
+<details>
+<summary><strong>2023</strong></summary>
+
+Coming soon
+
 </details>
 
-<details markdown=1><summary markdown='span'>2024</summary>
-      Coming soon
+<details>
+<summary><strong>2024</strong></summary>
+
+Coming soon
+
 </details>
 
+<details open>
+<summary><strong>2025</strong></summary>
 
 - **[January 2025](./Jan-2025)** - January questions and solutions
 - **[February 2025](./Feb-2025)** - February questions and solutions
@@ -24,6 +32,8 @@ Browse through our solutions organized by month:
 - **[September 2025](./September-2025)** - September questions and solutions
 - **[October 2025](./October-2025)** - October questions and solutions
 - **[November 2025](./November-2025)** - November questions and solutions
+
+</details>
 
 ## Contributors
 
